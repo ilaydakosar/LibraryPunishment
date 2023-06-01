@@ -1,6 +1,4 @@
-# VeriParkTask
-
-VeriPark Penalty Calculator Task
+ Penalty Calculator Task
 
 Task Result: ✔ Passed
 
